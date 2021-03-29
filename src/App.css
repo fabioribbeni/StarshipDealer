@@ -1,5 +1,29 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  position:relative;
+}
+
+.addButton{
+  position:fixed;
+  right: 20px;
+  bottom: 20px;
+  background-color:blue;
+  border-radius: 50%;
+}
+
+.cardContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.Card{
+  width: 250px;
+  margin: 5px;
 }
 
 .App-logo {
