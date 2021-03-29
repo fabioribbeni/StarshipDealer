@@ -1,3 +1,6 @@
+# Starship Dealer
+A simple project created with a local mock server. Made entirely with React using props, you can view the data, add a new object through a form and delete the existing ones. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
